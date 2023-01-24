@@ -2,3 +2,10 @@
     margin: 0;
     padding: 0;
 }
+
+.caja{
+    background: yellow;
+    height: 150px;
+    width: 300px;
+    margin: auto;
+}
